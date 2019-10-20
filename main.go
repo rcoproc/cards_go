@@ -6,7 +6,7 @@ func main() {
 	cards.shuffle()
 
 	// fmt.Println(cards.toString())
-	//cards.saveToFle("my_cards.txt")
+	//cards.saveToFile("my_cards.txt")
 
 	// cards := newDeckFromFile("my.txt")
 	cards.print()
