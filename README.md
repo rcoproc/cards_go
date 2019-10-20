@@ -1,14 +1,14 @@
 # cards_go
-Simple GOLang app 
+Simple GOLang app by Ricardo César de Oliveira @rcoproc
 
 ## Run with
 
-  go run main.go deck.go
+    go run main.go deck.go
 
 ## Test with
 
-  go test
+    go test
 
 ### Go version 
 
-  go1.13.3
+    go1.13.3
